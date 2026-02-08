@@ -17,7 +17,7 @@
 | 编号 | 项目 | Slogan | 团队成员 | 奖项 | 代码仓库 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 联结 (DreamCraft) |  | 37, 致之, Thomas, 赛博小猫RAG |  | [🔗](https://github.com/zzzhizhia/dreamcraft) |
-| 2 | 心桥 | 让代际沟通更流畅, 更有温度 | Nahiz, kizunerwe, SR思锐 开发者, 刘树 | 🥉 |  |
+| 2 | 心桥 | 让代际沟通更流畅, 更有温度 | Nahiz, kizunerwe, SR思锐 开发者, 刘树 | 🥉 | [🔗](https://zion.functorz.com/tool/wxjD4gy4PEG/WECHAT?code=dJQkxX4vXQPwg) |
 | 3 | MeteorChic 智能衣柜 | 让衣柜比你先懂流行 | jcy, Hope, 科技达人, wyh |  | (无) |
 | 4 | RiseTrack |  | Unknownuserfrommars, unDefFtr, THE TYLER, 原野阿千 |  | (无) |
 | 5 | AllergyEyes (过敏眼) | 慧眼识食，安心入口 | danneshca, 无治, Dubi906w, 叭虫 | 🥈 |  |
